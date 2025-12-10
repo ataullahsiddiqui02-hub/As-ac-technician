@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AS AC Technician — AC Repair & Service</title>
+  <meta name="description" content="AS AC Technician — Professional AC repair, installation & maintenance." />
+  <style>
+    :root{--bg:#000;--gold:#c89c2b;--text:#ddd}
+    body{margin:0;font-family:Arial;background:var(--bg);color:var(--text)}
+    .container{max-width:900px;margin:auto;padding:20px}
+    h1,h2{color:var(--gold)}
+    .hero{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+    .logo{width:140px;height:140px;border-radius:50%;overflow:hidden;border:4px solid var(--gold)}
+    .logo img{width:100%;height:100%;object-fit:cover}
+    .btn{background:var(--gold);padding:10px 16px;border-radius:8px;color:#000;text-decoration:none;font-weight:bold;margin-right:10px}
+    .card{background:#111;padding:15px;border-radius:10px;margin-top:20px}
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="hero">
+      <div class="logo">
+        <img src="REPLACE_WITH_LOGO_URL" />
+      </div>
+      <div>
+        <h1>AS AC Technician</h1>
+        <p>Professional AC Repair, Installation & Maintenance</p>
+        <a class="btn" href="tel:+911234567890">Call Now</a>
+        <a class="btn" href="mailto:hello@asactechnician.com">Email</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Services</h2>
+      <ul>
+        <li>AC Repair (Cooling issue, noise issue, gas top-up)</li>
+        <li>AC Installation & Uninstallation</li>
+        <li>Seasonal Maintenance / AMC</li>
+        <li>Gas Refilling (R32 / R410A / R22)</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>How to Book</h2>
+      <ol>
+        <li>Call or WhatsApp using the button above</li>
+        <li>Tell your AC model and problem</li>
+        <li>Technician visit & service with warranty</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Phone: +91 12345 67890</p>
+      <p>Email: hello@asactechnician.com</p>
+      <p>Instagram: yourlink</p>
+    </div>
+
+    <p style="text-align:center;margin-top:20px;color:#777">
+      © 2025 AS AC Technician
+    </p>
+
+  </div>
+</body>
+</html>
